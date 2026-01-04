@@ -1,23 +1,2 @@
-  
-● 다음에 돌아오셔서 이렇게 말씀해주시면 됩니다:
-
-  "Phase 1 검증 프로시저 작성부터 계속 진행해줘"
-
-  현재 진행 상황
-
-  ✅ 완료된 작업:
-  1. MIG_COL_MAPPING 테이블 DDL (27개 컬럼)
-  2. MIG_COL_MAPPING_HIST 이력 테이블 DDL
-  3. 기타 테이블 DDL (MIG_SRC_WHERE, MIG_TAB_INSERT_SQL, MIG_CUSTOM_SQL)
-  4. P_MIG_INSERT_SQL 프로시저 업데이트 (컬럼명 변경 반영)
-
-  🔄 다음 작업:
-  - P_VALIDATE_MAPPING_DATA 검증 프로시저 생성
-  - 그 후 Phase 2: 백엔드 API 구현으로 진행
-
-  모든 파일은 C:\Users\gisc\oracle-excel-uploader\database\migrations\ 폴더에 저장되어 있습니다:
-  - 003_drop_and_create_mig_tables_v2.sql (테이블 DDL)
-  - 004_update_procedure_v2.sql (프로시저 업데이트)
-
-  수고하셨습니다! 👍
+마이그레이션 프로젝트 진행중
 
